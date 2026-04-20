@@ -13,6 +13,11 @@ CNN, feed-forward, and recurrent neural networks built entirely from scratch in 
 
 `Python` `NumPy` `CNN` `RNN` `Backpropagation`
 
+### [transformer-blocks-cpu](https://github.com/erentasken/transformer-blocks-cpu)
+Practical encoder and decoder transformer blocks built in PyTorch and optimized for CPU. Includes a text classification example using `EncoderBlock` and a sequence-to-sequence translation example using `DecoderBlock` with cross-attention.
+ 
+`Python` `PyTorch` `Transformers` `Encoder` `Decoder` `Cross-Attention` 
+
 ### [Intrusion-Prevention-System](https://github.com/erentasken/Intrusion-Prevention-System)
 Hybrid network IPS combining Snort signature detection with ML-based anomaly detection. Ships Random Forest, XGBoost, LightGBM, CatBoost, and a custom 3-layer neural network. Real-time traffic capture via CICFlowMeter. **>96% detection accuracy, <4% false positive rate.**
 
