@@ -38,8 +38,3 @@ AI-powered CSV field standardization using Retrieval-Augmented Generation. Encod
 | [Secure-Vault](https://github.com/erentasken/Secure-Vault) | Password-protected file encryption vault with GUI | Python |
 | [P2PFileSharing](https://github.com/erentasken/P2PFileSharing) | Peer-to-peer file sharing system | Java |
 | [SpaceInvadersJava](https://github.com/erentasken/SpaceInvadersJava) | Space Invaders clone | Java |
-
-## 📬 Contact
-
-- LinkedIn: [eren-tasken-2b2037222](https://www.linkedin.com/in/eren-tasken-2b2037222/)
-- GitHub: [github.com/erentasken](https://github.com/erentasken)
