@@ -34,19 +34,6 @@ AI-powered CSV field standardization using Retrieval-Augmented Generation. Encod
 | [P2PFileSharing](https://github.com/erentasken/P2PFileSharing) | Peer-to-peer file sharing system | Java |
 | [SpaceInvadersJava](https://github.com/erentasken/SpaceInvadersJava) | Space Invaders clone | Java |
 
----
-
-## 🛠 Stack
-
-```
-Languages   Python · Go · TypeScript · Java
-ML / AI     NumPy · XGBoost · LightGBM · BioBERT · FAISS · Scikit-learn
-Backend     FastAPI · Go (net/http) · Docker
-Frontend    Next.js · Tailwind CSS · Wails
-```
-
----
-
 ## 📬 Contact
 
 - LinkedIn: [eren-tasken-2b2037222](https://www.linkedin.com/in/eren-tasken-2b2037222/)
