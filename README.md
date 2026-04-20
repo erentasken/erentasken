@@ -13,6 +13,11 @@ CNN, feed-forward, and recurrent neural networks built entirely from scratch in 
 
 `Python` `NumPy` `CNN` `RNN` `Backpropagation`
 
+### [PostTrain-Playground](https://github.com/erentasken/PostTrain-Playground)
+End-to-end RLHF pipeline running on CPU — SFT → reward model trained on preference pairs → PPO fine-tuning. Includes side-by-side evaluation of base, SFT, and RLHF model outputs. Intentionally small-scale and laptop-friendly for learning post-training techniques in practice.
+ 
+`Python` `PyTorch` `SFT` `RLHF` `PPO` `Reward Model` `distilgpt2`
+
 ### [transformer-blocks-cpu](https://github.com/erentasken/transformer-blocks-cpu)
 Practical encoder and decoder transformer blocks built in PyTorch and optimized for CPU. Includes a text classification example using `EncoderBlock` and a sequence-to-sequence translation example using `DecoderBlock` with cross-attention.
  
